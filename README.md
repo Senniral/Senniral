@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔷 Currently learning Java.
+✅ For hire? Yes! feel free to contact me.
+🔜 Gonna be posting new stuff soon.
+📌 How to reach me? Email: tasmariniretes@gmail.com
+⚡ Pronouns: He / Him
