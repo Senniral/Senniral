@@ -1,6 +1,9 @@
 <h1 align="center">Greetings!👋 I'm Senniral</h1>
 <h3 align="center">Passionate Web-Developer.</h3>
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senniral&label=Profile%20views&color=0e75b6&style=flat" alt="senniral" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senniral" alt="senniral" /></a> </p>
