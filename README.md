@@ -1,6 +1,7 @@
 <h1 align="center">Greetings!👋 I'm Senniral</h1>
 <h3 align="center">Passionate Web-Developer.</h3>
 
+<h3>Experience with:</h3>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
