@@ -29,6 +29,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senniral" alt="senniral" /></a> </p>
 
 - 🔭 Currently working on [Voltaikjs (Advanced discord bot)](https://github.com/Senniral/C3-JS)
+- 🔭 Currently learning about : Bash Scripting.
 
 - Contact me? Sure thing! **tasmariniretes@gmail.com**
 
