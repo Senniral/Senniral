@@ -21,6 +21,8 @@
 
 
 
+## Fav Distro:
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 
 
