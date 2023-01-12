@@ -24,7 +24,7 @@
 ## Fav Distro:
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-
+## More:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senniral&label=Profile%20views&color=0e75b6&style=flat" alt="senniral" /> </p>
 
