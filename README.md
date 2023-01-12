@@ -46,6 +46,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senniral&show_icons=true&locale=en&theme=tokyonight" alt="senniral" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Senniral&repo=socket.io-chat-test&theme=tokyonight)](https://github.com/Senniral/socket.io-chat-test)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Senniral&repo=socket.io-chat-test&theme=tokyonight)](https://github.com/Senniral/KeyLogger)
 
 
